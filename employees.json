@@ -1,0 +1,228 @@
+[
+    {
+    "id": "1001",
+    "name": "Dr. Saad Alabdulsalam",
+    "position": "CEO",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Cybersecurity Executive with over 16 years of Experience in Cyber Risk, Security Operations, and Cybersecurity Leadership, Currently serving as CEO of CyberXi in Saudi Arabia.",
+    "skills": ["Leadership & Team Building", "Information Security", "Communication & Stakeholder Management"],
+    "linkedin": "https://www.linkedin.com/in/dr-saad-alabdulsalam-0a100686/",
+    "email": "saad@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "saad.jpg",
+    "cover": "cover.png",
+    "vCard": "Dr.saad.vcf"
+  },
+  {
+    "id": "1002",
+    "name": "Mohammed (Ismail) Alamawy",
+    "position": "T-Shaped Cybersecurity & Data Innovator",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "cybersecurity and data innovator with expertise in driving secure, data-centric solutions and modern automation technologies",
+    "skills": ["Project Management", "Information Security", "IT Consulting"],
+    "linkedin": "https://www.linkedin.com/in/mismail-alamawy/",
+    "email": "m.ismail@cyberx.sa",
+    "location": "Al Madinah, Saudi Arabia",
+    "image": "m.ismail.png",
+    "cover": "cover.png",
+    "vCard": "m.ismail.vcf"
+  },
+  {
+    "id": "1003",
+    "name": "Mohammed Beina",
+    "position": "Business Development Manager",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "organizing, and overseeing business operations to ensure the company achieves its goals.",
+    "skills": ["Business Management", "Leadership", "Planning and Organization"],
+    "linkedin": "https://www.linkedin.com/in/mohamed-beina-73a857319/",
+    "email": "mbeina@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "m.beina.png",
+    "cover": "cover.png",
+    "vCard": "m.beina.vcf"
+  },
+
+    {
+    "id": "1004",
+    "name": "Hiba Alamin",
+    "position": "Sr.Cyber Security Specialist",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Cybersecurity professional with 14 years of experience in infrastructure and security, specializing in risk assessment, incident response, and vulnerability management.",
+    "skills": ["Security Architecture and Implementation", "Governance, Risk, and Compliance (GRC)", "Security Policy Development"],
+    "linkedin": "https://www.linkedin.com/in/hiba-alamin-mohamed-87581a42/",
+    "email": "hiba.a@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "girl.png",
+    "cover": "cover.png",
+    "vCard": "h.alamin.vcf"
+  },
+  {
+  "id": "1005",
+  "name": "Bader Almarri",
+  "position": "Cyber Security GRC Specialist",
+  "company": "CyberXi",
+  "website": "https://cyberxi.sa",
+  "bio": "Develops NCA aligned cybersecurity policies, leads awareness programs, manages risk and compliance assessments, designs disaster recovery plans, and oversees cybersecurity projects from planning to execution.",
+  "skills": [
+    "Cybersecurity Governance & Compliance",
+    "Risk Assessment & Management",
+    "Project Management"
+  ],
+  "linkedin": "https://www.linkedin.com/in/bader-almarri-4113833b4/",
+  "email": "bader.almarri@cyberx.sa",
+  "location": "Riyadh, Saudi Arabia",
+  "image": "bader.jpg",
+  "cover": "cover.png",
+  "vCard": "bader.vcf"
+  },
+  {
+  "id": "1006",
+  "name": "Azzam ALmtrodi",
+  "position": "Cybersecurity Specialist",
+  "company": "CyberXi",
+  "website": "https://cyberxi.sa",
+  "bio": "Cybersecurity Specialist experienced in GRC, vulnerability management, incident response, and data protection, with a focus on compliance and secure systems.",
+  "skills": [
+    "Cybersecurity Governance & Compliance",
+    "Vulnerability Management",
+    "Incident Response"
+  ],
+  "linkedin": "https://www.linkedin.com/in/azzam-almtrodi-77350a2b5/",
+  "email": "azzam.almtrodi@cyberx.sa",
+  "location": "Riyadh, Saudi Arabia",
+  "image": "azzam.jpg",
+  "cover": "cover.png",
+  "vCard": "azzam.vcf"
+  },
+ {
+  "id": "1007",
+  "name": "Abeer Alsamri",
+  "position": "Cybersecurity Specialist",
+  "company": "CyberXi",
+  "website": "https://cyberxi.sa",
+  "bio": "Cybersecurity Specialist experienced in GRC, vulnerability management, and incident response, with a focus on risk reduction and secure systems.",
+  "skills": [
+    "Cybersecurity Governance & Compliance",
+    "Vulnerability Management",
+    "Incident Response"
+  ],
+  "linkedin": "N/A",
+  "email": "abeer.alsmari@cyberx.sa",
+  "location": "Riyadh, Saudi Arabia",
+  "image": "girl.png",
+  "cover": "cover.png",
+  "vCard": "abeer.vcf"
+  },
+ {
+  "id": "1008",
+  "name": "Hamad Alothman",
+  "position": "Sr. Cybersecurity Specialist",
+  "company": "CyberXi",
+  "website": "https://cyberxi.sa",
+  "bio": "Senior Cybersecurity Specialist skilled in vulnerability assessment, incident response, and network security.",
+  "skills": [
+    "Vulnerability Assessment",
+    "Network Security",
+    "Incident Response"
+  ],
+  "linkedin": "https://www.linkedin.com/in/hamad-alothman-45654b1aa/",
+  "email": "h.othman@cyberx.sa",
+  "location": "Riyadh, Saudi Arabia",
+  "image": "hamad.jpg",
+  "cover": "cover.png",
+  "vCard": "hamad.vcf"
+  },
+    
+  {
+    "id": "1012",
+    "name": "Ahmed Hassan",
+    "position": "Cybersecurity Specialist",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Focused on Ethical Hacking and AI driven defense.",
+    "skills": ["Ethical Hacking", "C# / .NET", "Network Defense"],
+    "linkedin": "https://linkedin.com/in/ahmed-hassan-145699182/",
+    "email": "ahmed.hassan@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "a.hassan.png",
+    "cover": "cover.png",
+    "vCard": "a.hassan.vcf"
+  },
+
+     {
+    "id": "1013",
+    "name": "Ahmad Kontar",
+    "position": "Software Engineer",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Acting as a Product Engineer with technical autonomy, I drive the engineering lifecycle—from architectural decisions to deployment—while partnering closely with product leadership to build compliant GRC solutions.",
+    "skills": ["Artificial Intelligence (AI)", "Django REST Framework", "Product Engineering"],
+    "linkedin": "https://www.linkedin.com/in/ahmedkentar/",
+    "email": "a.kentar@cyberx.sa",
+    "location": "Jeddah, Saudi Arabia",
+    "image": "a.kontar.jpg",
+    "cover": "cover.png",
+    "vCard": "a.kontar.vcf"
+  },
+    
+     {
+    "id": "1014",
+    "name": "Mashael Alharbi",
+    "position": "Cybersecurity Specialist",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Cybersecurity Specialist experienced in GRC, vulnerability management, and incident response, with a focus on risk reduction and secure systems.",
+     "skills": [
+    "Cybersecurity Governance & Compliance",
+    "Vulnerability Management",
+    "Incident Response"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mashael-al-harbi-/",
+    "email": "m.alharbi@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "girl.png",
+    "cover": "cover.png",
+    "vCard": "mashael.vcf"
+   },
+
+  {
+    "id": "1015",
+    "name": "Shahad Alazmi",
+    "position": "Cybersecurity Specialist",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Cybersecurity Specialist experienced in GRC, vulnerability management, and incident response, with a focus on risk reduction and secure systems.",
+     "skills": [
+    "Cybersecurity Governance & Compliance",
+    "Vulnerability Management",
+    "Incident Response"
+    ],
+    "linkedin": "https://www.linkedin.com/in/shahadmalazmi/",
+    "email": "s.alazmi@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "girl.png",
+    "cover": "cover.png",
+    "vCard": "shahad.vcf"
+  },
+    
+  {
+    "id": "1016",
+    "name": "Ahmad Sallam",
+    "position": "Sales Director",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Developing and implementing comprehensive sales plans to expand the customer base and ensure a strong market presence.",
+    "skills": ["Communication", "Negotiation", "Revenue Forecasting"],
+    "linkedin": "https://www.linkedin.com/in/ahmad-sallam-849592249/",
+    "email": "a.sallam@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "a.sallam.jpg",
+    "cover": "cover.png",
+    "vCard": "a.sallam.vcf"
+  }
+    
+]
