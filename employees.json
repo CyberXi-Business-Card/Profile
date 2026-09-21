@@ -11,7 +11,7 @@
     "email": "saad@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "saad.jpg",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "Dr.saad.vcf"
   },
   {
@@ -26,7 +26,7 @@
     "email": "m.ismail@cyberx.sa",
     "location": "Al Madinah, Saudi Arabia",
     "image": "m.ismail.png",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "m.ismail.vcf"
   },
   {
@@ -41,7 +41,7 @@
     "email": "mbeina@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "m.beina.jpg",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "m.beina.vcf"
   },
 
@@ -57,7 +57,7 @@
     "email": "hiba.a@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "girl.png",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "h.alamin.vcf"
   },
   {
@@ -76,7 +76,7 @@
   "email": "bader.almarri@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "bader.jpg",
-  "cover": "cover.png",
+  "cover": "cover2.png",
   "vCard": "bader.vcf"
   },
   {
@@ -95,7 +95,7 @@
   "email": "azzam.almtrodi@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "azzam.jpg",
-  "cover": "cover.png",
+  "cover": "cover2.png",
   "vCard": "azzam.vcf"
   },
  {
@@ -114,7 +114,7 @@
   "email": "abeer.alsmari@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "girl.png",
-  "cover": "cover.png",
+  "cover": "cover2.png",
   "vCard": "abeer.vcf"
   },
  {
@@ -133,7 +133,7 @@
   "email": "h.othman@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "hamad.jpg",
-  "cover": "cover.png",
+  "cover": "cover2.png",
   "vCard": "hamad.vcf"
   },
     
@@ -149,7 +149,7 @@
     "email": "ahmed.hassan@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "a.hassan.png",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "a.hassan.vcf"
   },
 
@@ -165,7 +165,7 @@
     "email": "a.kentar@cyberx.sa",
     "location": "Jeddah, Saudi Arabia",
     "image": "a.kontar.jpg",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "a.kontar.vcf"
   },
     
@@ -185,7 +185,7 @@
     "email": "m.alharbi@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "girl.png",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "mashael.vcf"
    },
     
@@ -201,7 +201,7 @@
     "email": "a.sallam@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "a.sallam.jpg",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "a.sallam.vcf"
   },
   {
@@ -220,7 +220,7 @@
     "email": "a.almutairi@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "Albara.png",
-    "cover": "cover.png",
+    "cover": "cover2.png",
     "vCard": "Albara.vcf"
   }
 ]
