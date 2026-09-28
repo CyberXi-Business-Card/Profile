@@ -168,7 +168,7 @@ h1 {
 
 <script>
 async function loadEmployees() {
-    const res = await fetch('employees.json');
+    const res = await fetch('employees.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('Failed to load employees');
     return res.json();
 }
@@ -246,12 +246,13 @@ async function loadEmployees() {
 (async function init() {
     const app = document.getElementById('app');
     const params = new URLSearchParams(window.location.search);
-    const empId = (params.get('id') || '').trim();
+    const norm = v => String(v ?? '').replace(/\D/g, '');
+    const empId = norm(params.get('id'));
 
     try {
         const employees = await loadEmployees();
         const employee = empId
-            ? employees.find(e => String(e.id).trim() === empId)
+            ? employees.find(e => norm(e.id) === empId)
             : employees[0];
 
         if (!employee) {
