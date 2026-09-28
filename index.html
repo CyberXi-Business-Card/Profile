@@ -246,12 +246,12 @@ async function loadEmployees() {
 (async function init() {
     const app = document.getElementById('app');
     const params = new URLSearchParams(window.location.search);
-    const empId = params.get('id');
+    const empId = (params.get('id') || '').trim();
 
     try {
         const employees = await loadEmployees();
         const employee = empId
-            ? employees.find(e => e.id === empId)
+            ? employees.find(e => String(e.id).trim() === empId)
             : employees[0];
 
         if (!employee) {
