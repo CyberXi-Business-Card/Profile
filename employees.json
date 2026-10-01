@@ -11,7 +11,7 @@
     "email": "saad@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "saad.jpg",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "Dr.saad.vcf"
   },
   {
@@ -26,7 +26,7 @@
     "email": "m.ismail@cyberx.sa",
     "location": "Al Madinah, Saudi Arabia",
     "image": "m.ismail.png",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "m.ismail.vcf"
   },
   {
@@ -41,7 +41,7 @@
     "email": "mbeina@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "m.beina.jpg",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "m.beina.vcf"
   },
 
@@ -57,8 +57,23 @@
     "email": "hiba.a@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "girl.png",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "h.alamin.vcf"
+  },
+   {
+    "id": "3287590416",
+    "name": "Lolwah Alnafea",
+    "position": "Awareness Program Manager",
+    "company": "CyberXi",
+    "website": "https://cyberxi.sa",
+    "bio": "Design and execute awareness campaigns, training programs, and communication initiatives.",
+    "skills": ["Communication & Presentation","Program & Project Management","Content Development & Engagement"],
+    "linkedin": "https://www.linkedin.com/in/lolwah-alnafea-2879571a9/",
+    "email": "l.alnafea@cyberx.sa",
+    "location": "Riyadh, Saudi Arabia",
+    "image": "girl.png",
+    "cover": "cover.png",
+    "vCard": "l.alnafea.vcf"
   },
   {
   "id": "1005",
@@ -76,7 +91,7 @@
   "email": "bader.almarri@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "bader.jpg",
-  "cover": "cover2.png",
+  "cover": "cover.png",
   "vCard": "bader.vcf"
   },
   {
@@ -95,7 +110,7 @@
   "email": "azzam.almtrodi@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "azzam.jpg",
-  "cover": "cover2.png",
+  "cover": "cover.png",
   "vCard": "azzam.vcf"
   },
  {
@@ -114,7 +129,7 @@
   "email": "abeer.alsmari@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "girl.png",
-  "cover": "cover2.png",
+  "cover": "cover.png",
   "vCard": "abeer.vcf"
   },
  {
@@ -133,7 +148,7 @@
   "email": "h.othman@cyberx.sa",
   "location": "Riyadh, Saudi Arabia",
   "image": "hamad.jpg",
-  "cover": "cover2.png",
+  "cover": "cover.png",
   "vCard": "hamad.vcf"
   },
     
@@ -149,7 +164,7 @@
     "email": "ahmed.hassan@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "a.hassan.png",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "a.hassan.vcf"
   },
 
@@ -165,7 +180,7 @@
     "email": "a.kentar@cyberx.sa",
     "location": "Jeddah, Saudi Arabia",
     "image": "a.kontar.jpg",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "a.kontar.vcf"
   },
     
@@ -185,7 +200,7 @@
     "email": "m.alharbi@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "girl.png",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "mashael.vcf"
    },
     
@@ -201,7 +216,7 @@
     "email": "a.sallam@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "a.sallam.jpg",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "a.sallam.vcf"
   },
   {
@@ -220,7 +235,7 @@
     "email": "a.almutairi@cyberx.sa",
     "location": "Riyadh, Saudi Arabia",
     "image": "Albara.png",
-    "cover": "cover2.png",
+    "cover": "cover.png",
     "vCard": "Albara.vcf"
   }
 ]
